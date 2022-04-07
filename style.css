@@ -1,0 +1,37 @@
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+header{
+    border-bottom: 1px solid #DCDCDC ;
+    width: 96.5%;
+    margin-left: 1.5%;
+
+    padding-top: 1px;
+}
+
+img{
+    width: 96%;
+    height: 440px;
+    margin: 1.5%;
+    
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  float: left;
+  margin: 1.5%;
+  transition: 0.3s;
+  width: 30%;
+  text-align: center;
+}
+footer{
+    margin-bottom: 5%;
+    width: 96.5%;
+    text-align: center;
+}
+.email{
+   text-decoration: none;
+   font-family: 'Bebas Neue', cursive;
+   color: #E9967A;
+}
